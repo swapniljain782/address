@@ -15,6 +15,9 @@ $ mvn jetty:run
 ```
 
 open now
+
+build up
+
 Open [http://localhost:8080/](http://localhost:8080/)
 
 
